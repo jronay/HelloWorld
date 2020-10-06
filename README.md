@@ -2,7 +2,7 @@
 # HelloWorld
 This is a test repository!
 
-# A little linsight into Jeff Ronay
+# A Little Insight into Jeff Ronay
 Hi everyone, my name is Jeff Ronay and I am a passionate programmeer with a particular interest in the new Blazor bits from Microsoft.
 
 ## My Career Passions
